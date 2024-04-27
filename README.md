@@ -21,6 +21,7 @@ GNOME is a user-friendly and modern desktop environment that provides a seamless
 | G4Music | A Simple and easy to use Music Player written in vala and GTK | Movie & Music | 
 | Firefox | Fast, Private & Safe Web Browser | Web Browser |
 | Folio | Take notes in Markdown | Productivity |
+| BlackBox | | Default terminal for parch linux gnome | Tools | 
 
 
 
@@ -46,5 +47,5 @@ GNOME is a user-friendly and modern desktop environment that provides a seamless
 | G4Music | یک پخش کننده موسیقی ساده و آسان برای استفاده که در vala و GTK | فیلم و موسیقی |
 | FireFox | مرورگر وب سریع، خصوصی و ایمن | مرورگر وب |
 | Folio | یادداشت برداری در Markdown | بهره وری |
-
+| BlackBox | ترمینال اصلی برای پارچ لینوکس گنوم | ابزار ها |
 </div>
